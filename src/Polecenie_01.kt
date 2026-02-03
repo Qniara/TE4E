@@ -1,4 +1,4 @@
-fun main() {
+fun zad1() {
     var a = readln().toInt()
     var b = readln().toInt()
     while (a != b) {
